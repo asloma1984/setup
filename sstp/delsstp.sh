@@ -1,6 +1,6 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# System Requirements : Debian 9–13 / Ubuntu 18–25
+# System Requirements : Debian 9–13 / Ubuntu 18–26
 # Developer » Abdul (NorthAfrica Script)
 # Channel   » https://t.me/northafrica9
 # Group     » https://t.me/groupnorthafrica
